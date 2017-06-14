@@ -89,5 +89,6 @@ Watch [YouTube](https://www.youtube.com/watch?v=r8EGqvFBOZ8) or [Vimeo](https://
 
 
 ## LINKS
-[BORSH - LUCIOLA v1.21](http://borsh.pro/2017/06/14/luciola-major-update/)
-[BORSH - LUCIOLA Inital Release](http://borsh.pro/2016/09/14/luciola/)
+
+* [BORSH - LUCIOLA v1.21](http://borsh.pro/2017/06/14/luciola-major-update/)
+* [BORSH - LUCIOLA Inital Release](http://borsh.pro/2016/09/14/luciola/)
