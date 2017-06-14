@@ -54,7 +54,7 @@ LUCIOLA interface tabs:
 	* Human UI
 	* Human
 	* FabTools
-* Extract contents of [LUCIOLA package](https://github.com/borshpro/luciola/blob/master/LUCIOLA.v1.07-BORSH.zip) to your working folder
+* Extract contents of [LUCIOLA package](https://github.com/borshpro/luciola/releases/latest) to your working folder
 
 ## SUPPORTED FILE FORMATS
 
@@ -89,4 +89,5 @@ Watch [YouTube](https://www.youtube.com/watch?v=r8EGqvFBOZ8) or [Vimeo](https://
 
 
 ## LINKS
-[BORSH](http://borsh.pro/2016/09/14/luciola/)
+[BORSH - LUCIOLA v1.21](http://borsh.pro/2017/06/14/luciola-major-update/)
+[BORSH - LUCIOLA Inital Release](http://borsh.pro/2016/09/14/luciola/)
