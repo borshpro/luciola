@@ -1,7 +1,7 @@
 # LUCIOLA
 LUCIOLA - Solar Analysis for Grasshopper and Rhino
 
-![LUCIOLA Splash](http://borsh.pro/wp-content/uploads/2016/11/LUCIOLA_splash_1500.png "LUCIOLA")
+![LUCIOLA Splash](https://www.borsh.pro/img/products/luciola/LUCIOLA_splash_1500.png "LUCIOLA")
 
 ## SCREENS
 
