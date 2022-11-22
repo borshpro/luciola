@@ -39,22 +39,37 @@ LUCIOLA interface tabs:
 ## SYSTEM REQUIREMENTS
 
 ### Windows
-* Rhinoceros
-* Grasshopper
-* Grasshopper plugins: Human UI, Human, FabTools
+
+* [Rhino 7](https://www.rhino3d.com/download/rhino-for-windows/7/latest)
+* Grasshopper plugins
 
 ### macOS
-* Rhino for Mac Work-In-Progress (RhinoWIP)
+
+* [Rhino for Mac version 7](https://www.rhino3d.com/download/rhino-for-mac/7/latest)
+* Grasshopper plugins
 
 ## INSTALLATION
 
-* Install Rhino version at least 5.3
-* Install Grasshopper plugin for Rhino
+* Install Rhino
+	* Recommended version: Rhino 7
 * Install plugins for Grasshopper:
-	* Human UI
-	* Human
-	* FabTools
+	- EleFront
+	- Human
+	- Human UI
+	- LunchBox
 * Extract contents of [LUCIOLA package](https://github.com/borshpro/luciola/releases/latest) to your working folder
+
+
+## INSTALLATION OF GRASSHOPPER PLUGINS
+
+Install plugins via [Rhino Package Manager](https://developer.rhino3d.com/guides/yak/what-is-yak/).
+
+```sh
+yak install elefront 
+yak install human
+yak install human-ui
+yak install lunchbox
+```
 
 ## SUPPORTED FILE FORMATS
 
